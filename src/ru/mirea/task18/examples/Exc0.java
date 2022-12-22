@@ -13,7 +13,7 @@ class Exc0 {
 }
 /* Результат трассировки стека стандартного обработчика исключений:
 -------------------------------------------------------------------
-Exception in thread "main" java.lang.ArithmeticException: / by zero
+Exception in thread "Frame.java.java" java.lang.ArithmeticException: / by zero
 	at Chapter10.UnhandledExceptions.Exc0.sub(Exc0.java:7)
-	at Chapter10.UnhandledExceptions.Exc0.main(Exc0.java:11)
+	at Chapter10.UnhandledExceptions.Exc0.Frame.java.java(Exc0.java:11)
  */
